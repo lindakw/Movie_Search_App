@@ -1,0 +1,14 @@
+.App{
+  align-items: center;
+}
+
+body {
+	background: #141414;
+	color: #ffffff;
+}
+
+.movie-app > .row {
+	overflow-x: auto;
+	flex-wrap: nowrap;
+  margin-top: 50px;
+}

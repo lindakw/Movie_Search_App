@@ -1,0 +1,18 @@
+.navContainer {
+    background-color:darkcyan;
+    padding-left: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.formContainer {
+    padding-top: 15px;
+    position: absolute;
+    right: 15px;
+    
+}
+
+.searchBtn {
+    margin-left: 15px;
+    border-radius: 8px;
+}
